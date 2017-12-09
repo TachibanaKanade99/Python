@@ -3,7 +3,9 @@
 \usepackage{graphics,graphicx}
 \usepackage{fancyhdr}
 \usepackage{multirow}
-\usepackage{algorithm,algorithmic,listings}
+\usepackage{algorithm,algorithmic}
+\usepackage{listingsutf8}
+\usepackage{lmodern}
 
 \setlength{\voffset}{-0.25in}
 \setlength{\headsep}{+0.5in}
@@ -28,7 +30,8 @@
 \usepackage{mdframed}
 \usepackage[utf8]{vietnam}
 \usepackage[utf8]{inputenc}
-\usepackage[english]{babel}
+\usepackage{textcomp}
+\usepackage[T1]{fontenc}
 
 \newmdenv[linecolor=red,skipabove=\topsep,skipbellow=\topsep,leftmargin=5pt,rightmargin=-5pt,innerleftmargin=5pt,innerrightmargin=5pt]{mybox}
 
@@ -79,6 +82,21 @@ areas_copy[0] = 5.0
 
 # Print areas
 print(areas)
+\end{lstlisting}
+\section{Print type of Function}
+\begin{lstlisting}
+result = type(3.0)
+# Assign type of function 3.0 for variable `result'
+print(result)
+# Print `result'
+\end{lstlisting}
+\pagebreak
+\section{Length of type}
+\begin{lstlisting}[frame=single]
+result = 3.0 + 2.5
+# Assign the value for result
+print(len(result))
+# Print the length of `result'
 \end{lstlisting}
 \end{document}
 
