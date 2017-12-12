@@ -110,5 +110,32 @@ help(function,...)
 (decending order)
 sorted(iterable, [ key], [reverse=])
 \end{lstlisting}
+\section{Upper Method}
+\begin{lstlisting}
+ # Upper String [str.upper]
+room = `poolhouses'
+room_up = room.upper()
+ # Print room_up
+print(room_up)
+\end{lstlisting}
+\section{Count Method}
+\begin{lstlisting}
+ # Count the string str.count([substr or str], start=, end=len(str))
+ print(room.count(``o''))
+\end{lstlisting}
+\section{List Method}
+\begin{lstlisting}
+ # Index Method
+areas = [11.25, 18.0, 20.0, 10.75, 9.50]
+ # Print Index of 20.0
+print(areas.index(12.0))
+ # Print Count of 14.5
+print(areas.count(14.5))
+ # Add an elemenet to the list it is called on
+print(areas.append(23.00))
+ # Removw an element to the list that matches the input
+print(areas.remove(10.75))
+ #Reverse the order of the elements in the list it is called on.
+print(areas.reverse())
+\end{lstlisting} 
 \end{document}
-
