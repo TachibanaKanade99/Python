@@ -133,9 +133,41 @@ print(areas.index(12.0))
 print(areas.count(14.5))
  # Add an elemenet to the list it is called on
 print(areas.append(23.00))
- # Removw an element to the list that matches the input
+ # Remov ean element to the list that matches the input
 print(areas.remove(10.75))
  #Reverse the order of the elements in the list it is called on.
 print(areas.reverse())
-\end{lstlisting} 
+\end{lstlisting}
+\section{Numpy}
+\begin{lstlisting}
+# Create list baseball
+baseball = [180, 215, 210, 210, 188, 176, 209, 200]
+
+# Import the numpy package as np
+import numpy as np
+
+# Create a numpy array from baseball: np_baseball
+np_baseball = np.array(baseball)
+
+# Print out type of np_baseball
+print(type(np_baseball))
+# Print out dtype of np_baseball
+print(type(np_baseball.dtype))
+\end{lstlisting}
+\pagebreak
+\begin{center}
+\textbf{NumPy in Python}
+\end{center}
+\section{Numpy Array}
+\begin{lstlisting}
+# To use NumPy array we import NumPy package
+import numpy as np
+# create a list
+height = [12.45,78.90,34.56,56.78]
+# Use np.array(...) to make NumPy array
+np_height = np.array(height)
+# We can add function in array
+np_height_m = np_height * 0.05
+print(np_height_m)
+\end{lstlisting}
 \end{document}
