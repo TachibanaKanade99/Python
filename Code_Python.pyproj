@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{994c99f8-5459-46d6-995d-d09ee29ebae7}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile>python.py</StartupFile>
+    <SearchPath />
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <InterpreterId />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="python.py" />
+    <Compile Include="Python\python.py" />
+    <Compile Include="Python\tu.py" />
+    <Compile Include="Python\XML.py" />
+    <Compile Include="script.py" />
+    <Compile Include="tu.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TeXworks\README.txt" />
+    <Content Include="TeXworks\share\poppler\CMakeLists.txt" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\Acknowledgements.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\AdvanceduseScripting.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\Beyondthismanual.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\bibname.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\CompilingTw.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\contentsname.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\CustomizingTw.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\Firststeps.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\GoingfurtherEditingtools.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\GoingfurtherOthertools.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\cmsy10-c-41.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\cmsy10-c-4d.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\cmsy10-c-53.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\consoleOutput.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\errorParsingScript.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\example.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\iconAbortTypesetting.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\iconTypeset.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\index0x.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\index1x.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\index2x.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\index3x.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\index4x.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\index5x.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\index6x.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\index7x.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\index8x.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\interface-summary.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\Linux.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\LMB.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\Mac.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\MacCmdKey.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\MacOptKey.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\replaceDialog.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\RMB.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\TeXworks.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\toolbar1.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\toolbar2.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\images\Windows.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index.css" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index10.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index12.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index13.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index14.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index15.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index16.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index17.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index18.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index19.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index2.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index20.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index21.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index23.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index24.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index25.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index26.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index27.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index28.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index29.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index30.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index32.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index33.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index34.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index36.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index37.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index40.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index41.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index42.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index43.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index45.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index46.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index47.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index48.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index49.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index5.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index50.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index6.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index8.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\index9.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\indexname.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\Installation.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\Introduction.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\manual.css" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\Regularexpressions.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\en\tw-help-title.txt" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\AdaptationdeTw.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\Allerplusloinautresoutils.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\Allerplusloinoutilsdedition.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\Audeladecemanuel.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\bibname.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\CompilerTw.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\contentsname.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\Expressionsregulieres.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\cmsy10-c-41.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\cmsy10-c-4d.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\cmsy10-c-53.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\consoleOutput.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\ec-lmr12-19.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\errorParsingScript.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\example.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\iconAbortTypesetting.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\iconTypeset.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\index0x.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\index1x.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\index2x.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\index3x.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\index4x.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\index5x.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\index6x.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\index7x.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\index8x.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\interface-Tw.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\Linux.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\LMB.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\Mac.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\MacCmdKey.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\rechremp.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\RMB.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\TeXworks.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\toolbar1.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\toolbar2.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\images\Windows.png" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index.css" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index10.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index11.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index13.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index14.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index15.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index16.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index17.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index18.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index19.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index2.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index20.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index21.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index22.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index23.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index25.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index26.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index27.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index28.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index29.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index30.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index31.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index32.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index33.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index35.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index36.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index37.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index39.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index40.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index43.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index44.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index45.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index46.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index47.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index49.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index5.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index50.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index51.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index52.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index53.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index54.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index6.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index7.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\index9.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\indexname.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\Installation.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\Introduction.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\manual.css" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\Priseenmain.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\Remerciements.html" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\tw-help-title.txt" />
+    <Content Include="TeXworks\texworks-help\TeXworks-manual\fr\UsageavancelesScripts.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Python" />
+    <Folder Include="TeXworks" />
+    <Folder Include="TeXworks\share\" />
+    <Folder Include="TeXworks\share\poppler" />
+    <Folder Include="TeXworks\texworks-help\" />
+    <Folder Include="TeXworks\texworks-help\TeXworks-manual\" />
+    <Folder Include="TeXworks\texworks-help\TeXworks-manual\en" />
+    <Folder Include="TeXworks\texworks-help\TeXworks-manual\en\images" />
+    <Folder Include="TeXworks\texworks-help\TeXworks-manual\fr" />
+    <Folder Include="TeXworks\texworks-help\TeXworks-manual\fr\images" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+</Project>
