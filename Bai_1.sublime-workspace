@@ -1,0 +1,504 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"e",
+				"endl"
+			],
+			[
+				"kmap",
+				"\\kmaptopbotloop"
+			],
+			[
+				"kmaptopbotl",
+				"\\kmaptopbotloop"
+			],
+			[
+				"etx",
+				"\\textbf{}"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"incude",
+				"\\includegraphics{}"
+			],
+			[
+				"subsecti",
+				"\\subsection*{}"
+			],
+			[
+				"text",
+				"\\textbf{}"
+			],
+			[
+				"section",
+				"\\section{}"
+			],
+			[
+				"i",
+				"\\includegraphics"
+			],
+			[
+				"ovr",
+				"\\overline{}"
+			],
+			[
+				"over",
+				"\\overline{}"
+			],
+			[
+				"reu",
+				"return〔keyword〕"
+			],
+			[
+				"rer",
+				"return〔keyword〕"
+			],
+			[
+				"re",
+				"return〔keyword〕"
+			],
+			[
+				"co",
+				"continue〔keyword〕"
+			],
+			[
+				"set",
+				"setw"
+			],
+			[
+				"se",
+				"\\setlength"
+			],
+			[
+				"giai",
+				"giaithua〔function〕"
+			],
+			[
+				"my_",
+				"my_list1"
+			],
+			[
+				"my",
+				"my_list1〔variable〕"
+			],
+			[
+				"my_list",
+				"my_list_len"
+			],
+			[
+				"item",
+				"\\item"
+			],
+			[
+				"include",
+				"\\includegraphics{}"
+			],
+			[
+				"cha",
+				"\\chapter{}"
+			],
+			[
+				"subse",
+				"\\subset"
+			],
+			[
+				"fill",
+				"\\filldraw"
+			],
+			[
+				"sec",
+				"\\section{}"
+			],
+			[
+				"lin",
+				"linspace"
+			],
+			[
+				"t",
+				"t"
+			],
+			[
+				"tetx",
+				"\\textbf{}"
+			],
+			[
+				"math",
+				"\\mathbb"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"temp",
+				"tempYear〔variable〕"
+			],
+			[
+				"te",
+				"\\textbf{}"
+			],
+			[
+				"p",
+				"\\pagebreak"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"read",
+				"readTemperature"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"inclus",
+				"\\includegraphics{}"
+			],
+			[
+				"par",
+				"\\parskip"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"width",
+				"border-width"
+			],
+			[
+				"righ",
+				"\\rightarrow"
+			],
+			[
+				"left",
+				"\\leftrightarrow"
+			],
+			[
+				"rigt",
+				"\\rightarrow"
+			],
+			[
+				"int",
+				"\\int_{}^{}"
+			],
+			[
+				"r",
+				"\\raggedleft"
+			],
+			[
+				"thap",
+				"thap_3"
+			],
+			[
+				"tha",
+				"thap_3"
+			],
+			[
+				"tet",
+				"\\textbf{}"
+			],
+			[
+				"right",
+				"\\rightarrow"
+			],
+			[
+				"ve",
+				"\\vector"
+			],
+			[
+				"in",
+				"\\infty"
+			],
+			[
+				"min",
+				"min_node"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"c",
+				"\\cdots"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/MyC.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 588.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 690.0
+	},
+	"console":
+	{
+		"height": 246.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/Code_CPP/HelloWorld/Toan_tuCPP.cpp",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/F/Code_CPP/HelloWorld/Exercise.cpp",
+		"/F/Tuan Minh/HKII/Linear_Algebra/Script/Script.tex",
+		"/F/Tuan Minh/HKII/Linear_Algebra/Script/Linear_Algebra",
+		"/F/Code_Python/Python/Fibonaci.py",
+		"/F/Tuan Minh/HKII/He_Thong_So/homework3Latex/homework3.tex",
+		"/F/Tuan Minh/HKII/He_Thong_So/Slide/Slide.tex",
+		"/F/Tuan Minh/HKII/He_Thong_So/homework2Latex/homework2.tex",
+		"/F/Code_Python/Python/Chuyen_so_nhi_phan.py",
+		"/F/Tuan Minh/HKII/Ki_thuat_lap_trinh/Lab1/EX7.cpp",
+		"/F/Tuan Minh/HKII/He_Thong_So/Slide/Slide.pdf",
+		"/F/Code_CPP/HelloWorld/Test.c",
+		"/F/Code_CPP/HelloWorld/Test.cpp",
+		"/F/Code_Python/Python/bai_3.py",
+		"/F/Code_Python/Python/Bao_6.py",
+		"/F/Tuan Minh/HKII/He_Thong_So/homework1Latex/homework1.tex",
+		"/F/Code_Python/Python/Script/Script.tex",
+		"/F/Code_Python/Python/Ham_kiem_tra_so_nguyen_to.py",
+		"/F/Code_Python/Python/While_For.py",
+		"/F/Code_Python/Python/Bai_5.py",
+		"/F/Code_Python/Python/Ham_kiem_tra_so_nguyen_to",
+		"/F/Code_CPP/Script/Script.cpp",
+		"/F/Code_CPP/Script/Distance.cpp",
+		"/F/Code_CPP/HelloWorld/HelloWorld.cpp",
+		"/F/Code_Python/Python/Bai_4.py",
+		"/F/Code_CPP/HelloWorld/HelloWorld.c",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 3/Packages/User/MyC.sublime-build",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 3/Packages/User/MyC++.sublime-build",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 3/Packages/User/myC++.sublime-build",
+		"/C/Users/USER/Desktop/HelloWorld.cpp",
+		"/F/Code_Python/Python/Tuan.py",
+		"/F/Code_Python/Python/Dijkstra_algorithm.py",
+		"/F/Code_Python/Python/python.py",
+		"/F/Code_Python/Python/script.py",
+		"/F/Code_Python/Python/XML.py",
+		"/F/Code_Python/Python/Derivation_Tree.py",
+		"/F/Code_Python/Python/tu.py",
+		"/F/Code_Python/Python/Bai_2.py",
+		"/F/Code_Python/Python/Bai_1.py",
+		"/G/HKII/Math/Math.tex",
+		"/F/Tuan Minh/Cau truc roi rac KHMT/Homework/graph-template.tex",
+		"/F/Tuan Minh/Cau truc roi rac KHMT/Homework/introduction.tex",
+		"/F/Tuan Minh/Cau truc roi rac KHMT/Homework/Graph.tex",
+		"/F/Tuan Minh/Cau truc roi rac KHMT/Homework/HWGraph.tex",
+		"/G/New folder (2)/Differential_Equation/Differential_Equation.tex",
+		"/F/Tuan Minh/Cau truc roi rac KHMT/Homework/draw_curve/draw_curve.tex",
+		"/F/Tuan Minh/Cau truc roi rac KHMT/Homework/HW05.tex",
+		"/G/New folder (2)/Integral/Integral.tex",
+		"/G/New folder (2)/Physics/Physic1.tex",
+		"/G/New folder (2)/Chemistry/Chemistry.tex",
+		"/F/Code_Python/Script/Script.tex",
+		"/C/Users/USER/Desktop/Math.m",
+		"/F/Tuan Minh/Matlab_code/MATLAB_Calculus/asymtotes.m",
+		"/F/Tuan Minh/Nhap Mon Dien Toan/bt/Dong_ho1/Dong_ho1.ino",
+		"/F/Tuan Minh/Nhap Mon Dien Toan/bt/Dong_ho1.ino",
+		"/F/Tuan Minh/Nhap Mon Dien Toan/bt/Dong_ho.ino",
+		"/F/Tuan Minh/Nhap Mon Dien Toan/bt/Nhiet_do_Do_am/Nhiet_do_Do_am.ino",
+		"/C/xampp/htdocs/calendar/x_full_calendar/fullcalendar.html",
+		"/C/xampp/htdocs/calendar/calendar.htm",
+		"/C/xampp/htdocs/calendar/calendar.css",
+		"/C/xampp/htdocs/calendar/calendar.js",
+		"/C/xampp/htdocs/calendar/x_full_calendar/fullcalendar.css",
+		"/C/Users/USER/Desktop/Button/button.htm",
+		"/C/Users/USER/Desktop/web.htm",
+		"/F/Tuan Minh/Nhap Mon Dien Toan/bt/Dht11_DS3231.ino",
+		"/F/Tuan Minh/slide/Differential_Equation/Differential_Equation.tex",
+		"/F/Arduino/libraries/DS3231/examples/Arduino/DS3231_Temperature/DS3231_Temperature.ino",
+		"/F/Tuan Minh/Nhap Mon Dien Toan/bt/Nhiet_do_Do_am.ino",
+		"/F/Tuan Minh/Nhap Mon Dien Toan/bt/den_led_sang_tuan_tu/den_led_sang_tuan_tu.ino",
+		"/F/Tuan Minh/slide/Web/calendar/x_full_calendar/fullcalendar.print.css",
+		"/F/Tuan Minh/slide/Web/calendar/x_full_calendar/fullcalendar.js",
+		"/F/Tuan Minh/slide/Web/calendar/x_full_calendar/fullcalendar.css",
+		"/F/Tuan Minh/slide/Web/calendar/x_full_calendar/fullcalendar.html",
+		"/F/Tuan Minh/slide/Web/calendar/calendar.htm",
+		"/F/Tuan Minh/slide/Web/calendar/calendar.js",
+		"/F/Tuan Minh/slide/Web/calendar/calendar.css",
+		"/D/New folder (2)/Integral/Integral.tex",
+		"/C/Users/USER/Desktop/get-pip.py",
+		"/F/Code_Python/Python/graph.py",
+		"/F/Code_Python/Python/ThapHaNoi.py",
+		"/D/New folder (2)/Chemistry/Chemistry.tex",
+		"/F/Code_Python/Code_Python.pyproj",
+		"/F/Code_Python/python.py",
+		"/D/New folder (2)/Physics/Physic1.tex",
+		"/F/Tuan Minh/slide/Integral/Integral.tex",
+		"/F/t",
+		"/F/Code_Python/Dijkstra algorithm.py",
+		"/D/New folder (2)/Integral/Dijkstra algorithm.py",
+		"/C/xampp/htdocs/calendar/x_full_calendar/fullcalendar.js",
+		"/C/xampp/htdocs/calendar/calendar.php",
+		"/F/Community_Project/Slide/Web/index.html",
+		"/F/Community_Project/Slide/Web/assets/css/user.css"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"("
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/MyC++.sublime-build",
+	"project": "Bai_1.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
